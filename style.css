@@ -1,0 +1,28 @@
+h1 {
+    color: #200285;
+    text-align: center;
+}
+
+img{
+    width:100px;
+    height:100px;
+    margin:10px;
+}
+div {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+section{
+    width:500px;
+    height:500px;
+    border:2px solid black;
+    text-align:center;
+}
+#right{
+    border-color:red;
+}
+#left {
+    border-color: blue;
+}
